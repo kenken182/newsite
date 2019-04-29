@@ -41,15 +41,12 @@ h1 {
 }
 
 h1 span {
-    background-color: rgb(0,191,255, 0.5)
+	border-top: 2px solid white;
+	border-bottom: 2px solid white;
 }
 
 #introContent {
-  padding-top: 1%;
-}
-
-.collapse.show {
-  visibility: visible;
+  padding-top: 2%;
 }
 
 h2 {
